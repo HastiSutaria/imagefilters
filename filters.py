@@ -3,7 +3,7 @@ import numpy as np
 import os
 import shutil
 import glob
-img = cv.imread('photos/take.jpg')
+img = cv.imread('photo.jpg')
 
 #resizing
 scale_percent = 50
